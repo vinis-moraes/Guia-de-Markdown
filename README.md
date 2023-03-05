@@ -99,3 +99,5 @@ Para montar um código de programa, usamos 3 crases no começo e no fim do texto
 ```
 Uma das principais diferenças entre o texto monoespaçado e o código é que, além do segundo ocupar a linha inteira, você pode copiar o código diretamente pelo botão ao lado.
 ```
+
+:hand
