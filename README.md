@@ -44,3 +44,12 @@ Da mesma forma podemos montar uma lista demarcada, porém com asteriscos ou tra�
    * Subitem 2 do item 2.
 * Item 3 da lista.
 
+***
+
+Para montar uma lista de tarefas, usamos "- []" no começo dos itens. E para marcar como concluído, adicionamos um "x" entre os colchetes.
+
+- [x] Tarefa 1
+- [] Tarefa 2
+   - [x] Tarefa 2.1
+   - [] Tarefa 2.2
+- [] Tarefa 3
