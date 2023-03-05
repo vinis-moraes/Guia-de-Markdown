@@ -105,3 +105,9 @@ Uma das principais diferenças entre o texto monoespaçado e o código é que, a
 Você também pode adicionar emojis ao seu documento Markdown. A fórmula é simples: basta colocar o nome do emoji entre 2 dois pontos `:`
 
 Por exemplo o emoji :+1: que possui o código `+1`. Você pode usar [esse repositório](https://github.com/ikatyang/emoji-cheat-sheet) como guia para saber os códigos dos emojis.
+
+## Citação
+
+Para montar uma citação, basta iniciar a frase com um símbolo de maior que `>`:
+
+> Esse é um exemplo de citação!
