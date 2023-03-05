@@ -3,6 +3,7 @@
 Use **asteriscos duplos** ou __underlines duplas__ para negrito.
 Use  *asteriscos simples* ou _underlines simples_ para itálico.
 Use "~" duplos para ~~riscar textos~~.
+Também podemos **_misturar_** elementos, como o negrito e o itálico.
 
 
 # Use "#" no começo de uma frase (com espaço) para montar um título.
@@ -18,8 +19,6 @@ Use três vezes o "-" para montar uma linha.
 Ou use três vezes o "*" para montar uma linha.
 
 ***
-
-Também podemos **_misturar_** elementos, como o negrito e o itálico.
 
 Podemos montar uma lista numerada sem nos preocuparmos com a ordem dos números, como no exemplo abaixo:
 
