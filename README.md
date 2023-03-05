@@ -73,3 +73,14 @@ A descrição da imagem será usada caso não seja possível acessar o arquivo, 
 Para criar hiperlinks, a fórmula é muito parecida com a das imagens, com uma pequena diferença: nós removeremos o ponto de exclamação. Veja o exemplo abaixo: 
 
 [Minha página do GitHub](https://github.com/vinis-moraes)
+
+***
+
+## Tabelas
+
+Para criar uma tabela, usaremos o pipe(também conhecido como barra de pé) "|" e os traços "-". Separaremos as colunas usando os pipes e as linhas usando os traços, veja o exemplo e depois o código:
+
+Coluna 1 | Coluna 2 | Coluna 3
+---|---|---
+L1, C1 | L1, C2 | L1, C3
+L2, C1 | L2, C2 | L3, C3
