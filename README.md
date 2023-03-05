@@ -23,6 +23,8 @@ Ou use três vezes o "*" para montar uma linha.
 
 ***
 
+## Listas
+
 Podemos montar uma lista numerada sem nos preocuparmos com a ordem dos números, como no exemplo abaixo:
 
 1. Item 1 da lista, com número 1 no código;
@@ -57,6 +59,8 @@ Para montar uma lista de tarefas, usamos "- [ ]" no começo dos itens. E para ma
 - [ ] Tarefa 3
 
 ***
+
+## Anexos
 
 Para adicionar uma imagem, iniciamos a linha com: "![]()", onde dentro dos colchetes deve ir uma descrição da imagem e dentro dos parênteses a url da imagem, como no exemplo abaixo:
 
