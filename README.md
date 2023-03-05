@@ -86,3 +86,10 @@ L1, C1 | L1, C2 | L1, C3
 L2, C1 | L2, C2 | L3, C3
 
 ![Captura de tela com o código da tabela](https://github.com/vinis-moraes/Guia-de-Markdown/blob/main/Captura-de-tela-1.png)
+
+
+## Comandos
+
+Para montar um comando com texto monoespaçado, usamos crase "`" antes e depois da frase,
+
+`O resultado deve ser parecido com esse`
