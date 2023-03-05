@@ -69,3 +69,7 @@ Para adicionar uma imagem, iniciamos a linha com: "![]()", onde dentro dos colch
 A descrição da imagem será usada caso não seja possível acessar o arquivo, como no exemplo abaixo:
 
 ![Imagem logo da conta]()
+
+Para criar hiperlinks, a fórmula é muito parecida com a das imagens, com uma pequena diferença: nós removeremos o ponto de exclamação. Veja o exemplo abaixo: 
+
+[Minha página do GitHub](https://github.com/vinis-moraes)
