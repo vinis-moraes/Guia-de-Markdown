@@ -94,7 +94,8 @@ Para montar um comando com texto monoespaçado, usamos crase "`" antes e depois 
 
 `O resultado deve ser parecido com esse`
 
-```
-Teste teste
+Para montar um código de programa, usamos 3 crases no começo e no fim do texto, como no exemplo abaixo:
 
+```
+Uma das principais diferenças entre o texto monoespaçado e o código é que, além do segundo ocupar a linha inteira, você pode copiar o código diretamente pelo botão ao lado.
 ```
