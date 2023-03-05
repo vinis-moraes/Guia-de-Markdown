@@ -1,8 +1,11 @@
 # Guia de Markdown
 
 Use **asteriscos duplos** ou __underlines duplas__ para negrito.
+
 Use  *asteriscos simples* ou _underlines simples_ para itálico.
+
 Use "~" duplos para ~~riscar textos~~.
+
 Também podemos **_misturar_** elementos, como o negrito e o itálico.
 
 
