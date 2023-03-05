@@ -84,3 +84,5 @@ Coluna 1 | Coluna 2 | Coluna 3
 ---|---|---
 L1, C1 | L1, C2 | L1, C3
 L2, C1 | L2, C2 | L3, C3
+
+![Captura de tela com o código da tabela](https://github.com/vinis-moraes/Guia-de-Markdown/blob/main/Captura-de-tela-1.png)
