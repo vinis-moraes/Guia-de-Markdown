@@ -53,3 +53,9 @@ Para montar uma lista de tarefas, usamos "- [ ]" no começo dos itens. E para ma
    - [x] Tarefa 2.1
    - [ ] Tarefa 2.2
 - [ ] Tarefa 3
+
+***
+
+Para adicionar uma imagem, iniciamos a linha com: "![]()", onde dentro dos colchetes deve ir uma descrição da imagem e dentro dos parênteses a url da imagem, como no exemplo abaixo:
+
+![Imagem logo da conta]()
