@@ -100,4 +100,8 @@ Para montar um código de programa, usamos 3 crases no começo e no fim do texto
 Uma das principais diferenças entre o texto monoespaçado e o código é que, além do segundo ocupar a linha inteira, você pode copiar o código diretamente pelo botão ao lado.
 ```
 
-:hand:
+## Emojis
+
+Você também pode adicionar emojis ao seu documento Markdown. A fórmula é simples: basta colocar o nome do emoji entre 2 dois pontos `:`
+
+Por exemplo o emoji :+1: que possui o código `+1`. Você pode usar [esse repositório](https://github.com/ikatyang/emoji-cheat-sheet) como guia para saber os códigos dos emojis.
