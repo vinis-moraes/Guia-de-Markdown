@@ -34,3 +34,12 @@ Para montar subitens, basta adicionar um novo item com 3 espaços no começo, co
    1. Subitem 1 do item 2, com número 1 no código;
    4. Subitem 2 do item 2, com número 2 no código.
 7. Item 3 da lista, com número 7 no código.
+
+
+Da mesma forma podemos montar uma lista demarcada, porém com asteriscos no começo:
+
+* Item 1 da lista;
+* Item 2 da lista;
+   * Subitem 1 do item 2;
+   * Subitem 2 do item 2.
+* Item 3 da lista.
