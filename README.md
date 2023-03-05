@@ -59,3 +59,7 @@ Para montar uma lista de tarefas, usamos "- [ ]" no começo dos itens. E para ma
 Para adicionar uma imagem, iniciamos a linha com: "![]()", onde dentro dos colchetes deve ir uma descrição da imagem e dentro dos parênteses a url da imagem, como no exemplo abaixo:
 
 ![Imagem logo da conta](https://github.com/vinis-moraes/Guia-de-Markdown/blob/main/81641780.png)
+
+A descrição da imagem será usada caso não seja possível acessar o arquivo, como no exemplo abaixo:
+
+![Imagem logo da conta]()
