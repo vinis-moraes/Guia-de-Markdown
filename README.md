@@ -4,7 +4,7 @@ Use **asteriscos duplos** ou __underlines duplas__ para negrito.
 
 Use  *asteriscos simples* ou _underlines simples_ para itálico.
 
-Use "~" duplos para ~~riscar textos~~.
+Use `~` duplos para ~~riscar textos~~.
 
 Também podemos **_misturar_** elementos, como o negrito e o itálico.
 
@@ -15,11 +15,11 @@ Também podemos **_misturar_** elementos, como o negrito e o itálico.
 
 ### Use "###" no começo de uma frase para montar um título de nível 3.
 
-Use três vezes o "-" para montar uma linha.
+Use três vezes o `-` para montar uma linha.
 
 ---
 
-Ou use três vezes o "*" para montar uma linha.
+Ou use três vezes o `*` para montar uma linha.
 
 ***
 
@@ -50,7 +50,7 @@ Da mesma forma podemos montar uma lista demarcada, porém com asteriscos ou tra�
 
 ***
 
-Para montar uma lista de tarefas, usamos "- [ ]" no começo dos itens. E para marcar como concluído, adicionamos um "x" entre os colchetes.
+Para montar uma lista de tarefas, usamos `- [ ]` no começo dos itens. E para marcar como concluído, adicionamos um "x" entre os colchetes.
 
 - [x] Tarefa 1
 - [ ] Tarefa 2
@@ -78,7 +78,7 @@ Para criar hiperlinks, a fórmula é muito parecida com a das imagens, com uma p
 
 ## Tabelas
 
-Para criar uma tabela, usaremos o pipe(também conhecido como barra de pé) "|" e os traços "-". Separaremos as colunas usando os pipes e as linhas usando os traços, veja o exemplo e depois o código:
+Para criar uma tabela, usaremos o pipe(também conhecido como barra de pé) `|` e os traços `-`. Separaremos as colunas usando os pipes e as linhas usando os traços, veja o exemplo e depois o código:
 
 Coluna 1 | Coluna 2 | Coluna 3
 ---|---|---
