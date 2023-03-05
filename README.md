@@ -93,3 +93,8 @@ L2, C1 | L2, C2 | L3, C3
 Para montar um comando com texto monoespaçado, usamos crase "`" antes e depois da frase,
 
 `O resultado deve ser parecido com esse`
+
+```
+Teste teste
+
+```
